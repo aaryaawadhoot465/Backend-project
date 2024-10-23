@@ -3,7 +3,7 @@
 This is a simple registration form that asks user for name, email, password, phone and address. And registers them in and saving their info in a json file.
 
 To clone the repository, go to your terminal and run 
-Run: git clone (link to this github repository)
+Run: git clone https://github.com/aaryaawadhoot465/Backend-project.git
 
 Then navigate to the path to this cloned respositor,
 Run: cd Backend-project/
